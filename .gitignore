@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter/VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+logs/
+*.log
+
+# Data (raw or local DB)
+data/raw/
+data/db/
+
+# Ignore local docker artifacts if recreated later
+.dockerignore
+Dockerfile*
+docker-compose.yml

@@ -1,0 +1,23 @@
+# Phase 5 Model 3 - Station Segmentation
+
+- Run timestamp (UTC): 2025-12-14T09:19:23.403572Z
+- Stations segmented: 457
+- Clusters discovered: 4
+- Cluster labels export: D:\ev\data\models\station_clusters.csv
+- Cluster profile export: D:\ev\data\processed\station_cluster_profile.csv
+
+## Cluster Counts
+| Cluster | Stations |
+| --- | ---: |
+| 0 | 121 |
+| 1 | 91 |
+| 2 | 155 |
+| 3 | 90 |
+
+## Feature Averages
+| Cluster | session_count | unique_users | avg_energy_kwh | avg_duration_min | avg_cost_usd | avg_distance_km | avg_temperature_c | dc_fast_ratio | commuter_ratio |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 0 | 4.71 | 4.71 | 43.57 | 135.49 | 22.61 | 152.33 | 15.15 | 0.34 | 0.36 |
+| 1 | 1.70 | 1.70 | 42.50 | 159.44 | 14.72 | 116.87 | 11.12 | 0.12 | 0.41 |
+| 2 | 2.32 | 2.32 | 37.86 | 126.31 | 25.57 | 164.27 | 17.39 | 0.16 | 0.35 |
+| 3 | 1.88 | 1.88 | 47.06 | 138.94 | 23.22 | 167.24 | 16.18 | 0.79 | 0.34 |

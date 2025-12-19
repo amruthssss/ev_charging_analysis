@@ -1,0 +1,5 @@
+,user_id,vehicle_model,charging_station_id,charging_station_location,time_of_day,day_of_week,charger_type,user_type
+count,1254,1254,1254,1254,1254,1254,1254,1254
+unique,1254,5,457,5,4,7,3,3
+top,User_1,Tesla Model 3,Station_108,Los Angeles,Evening,Saturday,Level 1,Commuter
+freq,1,265,8,278,340,187,437,453

@@ -1,0 +1,1254 @@
+charging_station_id,charging_station_location,charger_type,charging_rate_kw
+Station_1,Chicago,Level 2,43.13328345657307
+Station_1,Los Angeles,Level 2,30.344748445823274
+Station_1,New York,DC Fast Charger,25.04146030496852
+Station_10,Chicago,DC Fast Charger,17.885559321838468
+Station_10,Chicago,Level 2,6.614280124746195
+Station_10,Houston,DC Fast Charger,4.5216315423165945
+Station_10,Los Angeles,Level 1,33.30056555155114
+Station_10,San Francisco,DC Fast Charger,35.112702584459015
+Station_10,San Francisco,Level 2,44.336610351548224
+Station_100,Houston,Level 1,
+Station_100,New York,Level 1,10.552801035266455
+Station_101,Houston,DC Fast Charger,33.732264264339975
+Station_101,Houston,DC Fast Charger,46.62351208569203
+Station_101,Los Angeles,Level 1,7.253633663105521
+Station_103,Los Angeles,Level 1,7.148790446098545
+Station_103,New York,Level 1,4.959155492783664
+Station_103,San Francisco,DC Fast Charger,44.12212998806049
+Station_104,Chicago,DC Fast Charger,13.104480594253658
+Station_104,Chicago,Level 1,21.47178993172093
+Station_105,Houston,DC Fast Charger,40.8117293500724
+Station_105,New York,Level 2,13.009732230851895
+Station_105,San Francisco,Level 1,14.511282307810957
+Station_106,Chicago,Level 1,38.49923631058793
+Station_106,Houston,Level 2,37.34746081473556
+Station_106,New York,Level 2,48.57649109999988
+Station_106,San Francisco,Level 2,43.142319817212005
+Station_107,Chicago,Level 2,11.820175787578869
+Station_107,Houston,Level 2,11.737244077708317
+Station_107,New York,Level 1,37.22881554336963
+Station_108,Chicago,Level 2,48.32123616672255
+Station_108,Houston,DC Fast Charger,39.127025402318914
+Station_108,Houston,Level 1,7.494575511011551
+Station_108,Houston,Level 1,12.561412323109137
+Station_108,Houston,Level 2,32.933970559947454
+Station_108,Los Angeles,Level 1,10.215712071204608
+Station_108,New York,DC Fast Charger,37.47917296186442
+Station_108,San Francisco,Level 2,6.513656892904606
+Station_109,New York,Level 2,31.39207659559448
+Station_109,San Francisco,DC Fast Charger,40.17800199145749
+Station_109,San Francisco,Level 1,33.304090865799786
+Station_11,Houston,DC Fast Charger,9.88982074193077
+Station_11,Houston,Level 2,15.572055588337298
+Station_110,Los Angeles,Level 2,43.55543394226943
+Station_110,New York,Level 2,37.50238773927163
+Station_112,Houston,DC Fast Charger,8.332992518212054
+Station_112,San Francisco,Level 1,4.273735085390689
+Station_114,Chicago,Level 2,7.32241853947061
+Station_114,Houston,Level 2,27.32114693970443
+Station_115,San Francisco,Level 1,24.832132237509622
+Station_116,Houston,Level 1,19.278035722978235
+Station_117,Chicago,DC Fast Charger,43.40930150579623
+Station_117,Houston,Level 2,9.286497700383908
+Station_117,Los Angeles,Level 2,43.62020158698581
+Station_118,Chicago,Level 1,34.72246309072786
+Station_118,New York,DC Fast Charger,5.130814495751761
+Station_118,San Francisco,DC Fast Charger,
+Station_119,Los Angeles,DC Fast Charger,34.17685550275657
+Station_119,New York,Level 1,35.164034359851314
+Station_119,San Francisco,DC Fast Charger,2.535237861846668
+Station_119,San Francisco,DC Fast Charger,39.75364156728047
+Station_12,Chicago,DC Fast Charger,19.59383734315731
+Station_12,Los Angeles,Level 2,
+Station_12,San Francisco,Level 1,26.4252189690936
+Station_120,Houston,DC Fast Charger,22.5594518061318
+Station_120,Houston,DC Fast Charger,45.01922284159334
+Station_120,Houston,Level 1,21.395605777560547
+Station_120,Los Angeles,Level 2,38.53754360884597
+Station_121,Houston,Level 1,43.16138737357078
+Station_121,New York,Level 2,42.51413254693079
+Station_121,New York,Level 2,
+Station_122,Chicago,DC Fast Charger,40.18246010654073
+Station_122,Los Angeles,Level 1,7.443107755455118
+Station_123,New York,DC Fast Charger,10.761670592921948
+Station_123,New York,Level 2,18.03449260881751
+Station_124,Chicago,Level 2,37.26275518553577
+Station_124,Houston,Level 2,20.59023557865744
+Station_125,Los Angeles,Level 2,45.29143534649799
+Station_125,New York,DC Fast Charger,32.631930630337024
+Station_126,Chicago,Level 2,32.080052394592826
+Station_127,Houston,Level 1,45.85569719639172
+Station_127,New York,Level 2,19.101417092688408
+Station_127,San Francisco,DC Fast Charger,34.08989660984318
+Station_127,San Francisco,Level 2,23.693078848689176
+Station_127,San Francisco,Level 2,
+Station_128,Los Angeles,DC Fast Charger,33.7042260973883
+Station_128,San Francisco,Level 1,40.44087745654424
+Station_129,Chicago,Level 1,37.86028498935581
+Station_129,Houston,DC Fast Charger,39.25700470430688
+Station_129,Los Angeles,Level 2,28.549558653249434
+Station_129,Los Angeles,Level 2,48.64872319079225
+Station_129,New York,DC Fast Charger,
+Station_13,Chicago,Level 1,31.554096556735363
+Station_13,Houston,DC Fast Charger,18.604260903972325
+Station_13,Houston,Level 2,25.073544324039364
+Station_13,Los Angeles,DC Fast Charger,14.18889149836167
+Station_13,New York,Level 2,23.97348713940437
+Station_130,Houston,DC Fast Charger,47.15400980350788
+Station_130,Los Angeles,DC Fast Charger,7.702187849236843
+Station_130,New York,Level 2,45.68669179564876
+Station_130,San Francisco,Level 2,25.60597779167056
+Station_130,San Francisco,Level 2,
+Station_131,New York,Level 2,32.363055163721626
+Station_131,San Francisco,Level 2,37.183765395523466
+Station_132,Houston,DC Fast Charger,29.8731055066718
+Station_132,Los Angeles,DC Fast Charger,33.884619968872244
+Station_132,San Francisco,Level 2,14.088726040982015
+Station_133,Chicago,Level 1,19.461110622460048
+Station_134,Chicago,DC Fast Charger,42.36624663230756
+Station_134,Houston,Level 2,39.91263736239426
+Station_134,Los Angeles,Level 2,31.88182227346866
+Station_135,Los Angeles,DC Fast Charger,46.47734294698628
+Station_135,New York,Level 1,68.54260187297076
+Station_137,Houston,Level 1,19.70948849251112
+Station_138,Los Angeles,Level 1,21.32626413977922
+Station_139,Chicago,Level 2,13.86051817161326
+Station_139,Chicago,Level 2,14.790119300536766
+Station_14,Los Angeles,DC Fast Charger,5.098121574412684
+Station_14,Los Angeles,Level 1,14.33045702276969
+Station_14,New York,DC Fast Charger,32.83733503507112
+Station_14,New York,Level 2,7.069653277241604
+Station_140,Chicago,DC Fast Charger,19.194882837079632
+Station_140,Los Angeles,Level 1,26.03119049253551
+Station_140,Los Angeles,Level 2,5.949301763553466
+Station_140,New York,Level 1,22.743966622605768
+Station_140,New York,Level 2,14.245986238314003
+Station_140,San Francisco,Level 1,49.76976563845879
+Station_141,Chicago,Level 2,36.80042526371527
+Station_141,Houston,Level 2,43.48176399161749
+Station_143,Los Angeles,Level 2,23.389205345851654
+Station_143,Los Angeles,Level 2,30.24472280444889
+Station_143,New York,DC Fast Charger,31.171170500929243
+Station_143,New York,Level 1,15.060556534510896
+Station_144,Chicago,Level 2,9.807729926080174
+Station_144,New York,Level 2,21.269704738274807
+Station_145,Chicago,Level 1,44.04035430259583
+Station_145,Chicago,Level 2,10.274728630596702
+Station_145,Houston,DC Fast Charger,40.17685077355911
+Station_145,Houston,DC Fast Charger,49.78371903386572
+Station_145,Houston,Level 1,29.413406694147984
+Station_145,New York,Level 1,11.27466652026834
+Station_146,Chicago,DC Fast Charger,3.602939855704881
+Station_146,Houston,DC Fast Charger,9.86675920918086
+Station_146,Houston,Level 1,40.44452192617549
+Station_146,San Francisco,Level 1,14.984051430614867
+Station_147,Los Angeles,DC Fast Charger,11.112498841670842
+Station_147,San Francisco,Level 2,25.79263544269118
+Station_148,Chicago,Level 2,14.880153191426595
+Station_148,Houston,Level 1,12.59762021470088
+Station_149,Houston,Level 1,11.129872762551232
+Station_149,Los Angeles,Level 2,
+Station_149,New York,Level 1,5.255799991325633
+Station_149,San Francisco,Level 2,41.88423157875781
+Station_15,Chicago,DC Fast Charger,19.713679937800947
+Station_150,Chicago,DC Fast Charger,32.62090777265186
+Station_150,Chicago,Level 1,47.60911599293456
+Station_150,Houston,Level 1,11.238538626794044
+Station_151,Chicago,Level 2,40.99044595574586
+Station_151,Houston,DC Fast Charger,28.522353335495254
+Station_151,San Francisco,DC Fast Charger,12.888588103956373
+Station_151,San Francisco,Level 2,29.88406599854634
+Station_152,Houston,Level 1,10.16337295016612
+Station_152,New York,Level 1,42.96030719302265
+Station_152,New York,Level 2,
+Station_153,Houston,Level 1,14.992418440021032
+Station_154,Chicago,Level 1,40.19690033842815
+Station_154,Los Angeles,Level 1,
+Station_154,Los Angeles,Level 2,3.5666530370869136
+Station_154,New York,Level 1,15.380881327116466
+Station_154,New York,Level 1,40.564403928383314
+Station_155,Houston,Level 1,53.174782799295336
+Station_155,Los Angeles,Level 1,10.299799723961698
+Station_155,Los Angeles,Level 2,23.40224119982806
+Station_155,New York,Level 2,47.76649443710824
+Station_156,Houston,Level 2,12.637728429568222
+Station_156,Los Angeles,Level 2,25.89338081006577
+Station_157,New York,DC Fast Charger,28.59630646268833
+Station_157,New York,Level 2,32.09970635847218
+Station_158,Houston,Level 1,39.4290961711839
+Station_158,New York,DC Fast Charger,
+Station_158,New York,Level 1,3.91865577143935
+Station_159,New York,Level 1,14.971801438288828
+Station_16,San Francisco,DC Fast Charger,7.446768633950693
+Station_16,San Francisco,DC Fast Charger,47.18975870041258
+Station_16,San Francisco,Level 2,5.523688619042968
+Station_161,Chicago,Level 2,
+Station_161,San Francisco,Level 1,29.5983026669443
+Station_161,San Francisco,Level 2,6.291013587854589
+Station_162,Chicago,Level 2,46.54335629892145
+Station_162,Houston,Level 1,20.391192291148027
+Station_162,Houston,Level 2,26.18518786003352
+Station_162,San Francisco,Level 2,26.721195372916803
+Station_165,Chicago,DC Fast Charger,40.91079821026635
+Station_166,Chicago,Level 2,30.185692832979
+Station_166,Houston,Level 1,21.83372402809416
+Station_166,Los Angeles,DC Fast Charger,6.498801921119486
+Station_166,Los Angeles,Level 1,35.525961628694056
+Station_167,Los Angeles,Level 2,39.459358758943125
+Station_167,New York,DC Fast Charger,34.63627057083493
+Station_168,Chicago,DC Fast Charger,7.600372847699663
+Station_168,Houston,DC Fast Charger,14.829910982037749
+Station_168,San Francisco,Level 1,41.23721127651863
+Station_169,New York,Level 1,41.56617601285262
+Station_169,New York,Level 2,30.02591267156402
+Station_169,San Francisco,Level 1,49.41151925702685
+Station_169,San Francisco,Level 2,24.43460764935305
+Station_17,Chicago,Level 1,12.48400854700609
+Station_17,Chicago,Level 2,10.70555783206436
+Station_17,Houston,DC Fast Charger,29.385047414670687
+Station_17,Los Angeles,DC Fast Charger,43.70116825973557
+Station_17,New York,DC Fast Charger,15.809921563951589
+Station_17,New York,DC Fast Charger,49.06109056457552
+Station_17,San Francisco,Level 2,31.654116000336423
+Station_170,Houston,Level 1,16.241963359211958
+Station_170,Los Angeles,Level 1,32.16501549428347
+Station_170,New York,Level 1,15.521661798949124
+Station_171,Chicago,Level 2,9.554956967284827
+Station_171,Houston,DC Fast Charger,42.136989660963394
+Station_171,Los Angeles,Level 2,47.96329395566978
+Station_172,Houston,DC Fast Charger,16.791473726872688
+Station_172,New York,Level 2,16.510459616824008
+Station_174,New York,Level 2,5.497144232704208
+Station_174,San Francisco,Level 1,27.381994351172008
+Station_175,Los Angeles,DC Fast Charger,46.7592714538903
+Station_176,Chicago,DC Fast Charger,34.95390177071374
+Station_176,Los Angeles,Level 2,41.34180124259758
+Station_176,New York,Level 1,18.93760769920245
+Station_177,Los Angeles,Level 2,18.57688687639485
+Station_177,San Francisco,Level 2,
+Station_178,Chicago,Level 2,41.18494267350982
+Station_178,Los Angeles,DC Fast Charger,23.87673157167134
+Station_178,Los Angeles,Level 1,5.847147396013394
+Station_179,Chicago,Level 1,37.675321852429775
+Station_179,Chicago,Level 2,40.53583769714743
+Station_179,San Francisco,Level 2,32.557458225025094
+Station_18,Chicago,Level 1,6.682750854200964
+Station_18,Chicago,Level 1,10.553605881721566
+Station_18,New York,Level 1,
+Station_18,San Francisco,DC Fast Charger,
+Station_18,San Francisco,Level 1,
+Station_18,San Francisco,Level 2,16.749235956917815
+Station_180,Houston,Level 1,26.726596804263863
+Station_180,Los Angeles,Level 2,31.858997698920543
+Station_180,New York,Level 1,5.454692701854564
+Station_180,New York,Level 1,13.412801608882669
+Station_180,New York,Level 2,48.97288766046728
+Station_181,Houston,Level 1,18.59949061237613
+Station_181,Los Angeles,DC Fast Charger,5.490322577166959
+Station_181,Los Angeles,DC Fast Charger,9.025938583872836
+Station_181,New York,DC Fast Charger,14.898359207134598
+Station_181,New York,DC Fast Charger,25.457146678252645
+Station_181,San Francisco,Level 2,27.51359255877324
+Station_182,Chicago,DC Fast Charger,29.626242800392035
+Station_182,Houston,DC Fast Charger,24.890919200595857
+Station_182,Houston,DC Fast Charger,
+Station_182,Houston,Level 2,45.69740274799046
+Station_183,Houston,Level 1,97.34225469987976
+Station_183,Houston,Level 2,16.59138266956989
+Station_185,Chicago,Level 1,19.75648055679933
+Station_185,Chicago,Level 1,33.46362565843205
+Station_185,Houston,DC Fast Charger,34.45824193725993
+Station_185,San Francisco,Level 1,39.154830349071936
+Station_186,Chicago,DC Fast Charger,44.67299945575187
+Station_186,Los Angeles,DC Fast Charger,18.879370175817385
+Station_186,Los Angeles,Level 2,15.014209056333913
+Station_187,Los Angeles,Level 1,19.951513324304088
+Station_187,New York,Level 1,19.715350490851208
+Station_188,Houston,DC Fast Charger,39.324141107074205
+Station_188,Houston,Level 1,19.121932643865595
+Station_189,Houston,DC Fast Charger,21.47990189129317
+Station_189,Los Angeles,Level 2,
+Station_19,Chicago,Level 1,13.2879240552999
+Station_19,Houston,Level 2,16.935868935365697
+Station_19,Los Angeles,DC Fast Charger,7.635488881129267
+Station_19,Los Angeles,DC Fast Charger,16.323426565043984
+Station_19,Los Angeles,DC Fast Charger,23.437410108212934
+Station_19,New York,Level 1,26.39988395239894
+Station_191,Los Angeles,Level 2,40.72369852949949
+Station_191,San Francisco,DC Fast Charger,47.67047064050836
+Station_192,Chicago,Level 2,46.27844331315938
+Station_192,Los Angeles,Level 1,16.26758640521298
+Station_192,New York,DC Fast Charger,37.2360143567669
+Station_193,Houston,Level 2,17.874744589794915
+Station_193,New York,DC Fast Charger,23.91551161182956
+Station_194,Los Angeles,Level 2,31.907713854552647
+Station_194,New York,Level 2,23.57785071707293
+Station_194,San Francisco,Level 1,40.17788477379544
+Station_195,San Francisco,DC Fast Charger,20.552317280826657
+Station_196,Houston,Level 1,11.03185074828479
+Station_196,New York,Level 2,16.371516065901147
+Station_196,San Francisco,Level 1,6.938614078941109
+Station_197,Houston,DC Fast Charger,28.04359239194004
+Station_197,Los Angeles,Level 2,21.51246491908547
+Station_197,San Francisco,Level 2,10.481223831096187
+Station_198,Chicago,DC Fast Charger,28.53131850003748
+Station_198,Chicago,Level 1,33.00513137989047
+Station_198,Chicago,Level 2,21.11803064913241
+Station_198,New York,Level 2,21.517815048554308
+Station_198,San Francisco,DC Fast Charger,39.46787878394304
+Station_199,Houston,DC Fast Charger,37.57728956063927
+Station_199,Los Angeles,Level 1,
+Station_199,San Francisco,Level 1,44.7448626480689
+Station_2,Chicago,Level 1,29.15448171293192
+Station_2,Los Angeles,Level 1,3.645282258602781
+Station_2,New York,DC Fast Charger,49.40273861566977
+Station_20,Houston,DC Fast Charger,16.59673017522612
+Station_200,Houston,DC Fast Charger,28.19404206423544
+Station_200,Los Angeles,DC Fast Charger,34.96509713846357
+Station_200,Los Angeles,Level 2,4.866182245217335
+Station_200,New York,Level 2,28.461752587529453
+Station_200,San Francisco,DC Fast Charger,
+Station_201,Chicago,DC Fast Charger,14.892902778695785
+Station_201,San Francisco,DC Fast Charger,49.88918287588557
+Station_203,Chicago,Level 1,34.388042437016395
+Station_203,New York,DC Fast Charger,11.109125564593423
+Station_203,New York,Level 1,16.68689597092782
+Station_204,Chicago,Level 1,30.846818882816667
+Station_204,Los Angeles,DC Fast Charger,28.504564541418848
+Station_204,New York,Level 1,44.87220045649857
+Station_204,New York,Level 2,30.00242931333289
+Station_205,Houston,Level 2,34.823950999988426
+Station_205,Los Angeles,Level 2,39.24707457045789
+Station_205,New York,Level 1,24.859551942231587
+Station_206,Los Angeles,DC Fast Charger,10.310701112892176
+Station_206,Los Angeles,Level 1,26.484266980325483
+Station_206,San Francisco,DC Fast Charger,26.691946660730032
+Station_207,New York,Level 2,43.477302403000174
+Station_208,Houston,Level 2,17.72970871647675
+Station_208,Houston,Level 2,
+Station_208,New York,Level 1,12.051836628241116
+Station_209,Chicago,DC Fast Charger,32.23574667839979
+Station_209,New York,Level 2,30.7839968181946
+Station_21,Chicago,DC Fast Charger,12.795542776205028
+Station_210,Chicago,Level 2,23.21525779216274
+Station_210,Los Angeles,Level 1,5.340049724227951
+Station_211,Chicago,Level 2,41.40704557419398
+Station_211,Houston,Level 2,7.651570046980447
+Station_211,Houston,Level 2,38.10527790601866
+Station_211,New York,DC Fast Charger,19.102870216691056
+Station_211,New York,Level 2,10.411646338286076
+Station_211,San Francisco,DC Fast Charger,5.923176780357402
+Station_212,Houston,Level 1,47.48218948900026
+Station_212,San Francisco,Level 1,48.63021491124283
+Station_212,San Francisco,Level 2,19.59636035921344
+Station_213,Chicago,Level 2,
+Station_213,New York,Level 1,38.84166727900306
+Station_214,Houston,Level 1,35.21951803944553
+Station_214,New York,Level 1,7.757341318099225
+Station_214,New York,Level 2,17.663341419791365
+Station_214,San Francisco,Level 1,7.424169715513885
+Station_215,Los Angeles,Level 2,13.762568583983876
+Station_215,Los Angeles,Level 2,22.456705662546888
+Station_215,New York,Level 2,41.12251368485552
+Station_216,Chicago,DC Fast Charger,44.01084818756358
+Station_216,Houston,Level 1,42.83848279850626
+Station_216,Los Angeles,Level 1,43.11477983426108
+Station_216,New York,Level 1,22.867757719681364
+Station_216,New York,Level 1,37.58308954905695
+Station_217,Chicago,DC Fast Charger,5.231316128591093
+Station_217,Los Angeles,Level 1,45.75831385931956
+Station_218,Houston,DC Fast Charger,29.216213685823107
+Station_219,Chicago,Level 2,12.620547147036431
+Station_219,Los Angeles,DC Fast Charger,19.260045839091497
+Station_219,Los Angeles,DC Fast Charger,35.92512612379792
+Station_219,Los Angeles,Level 2,15.631492191685426
+Station_22,Chicago,Level 2,37.39309240675668
+Station_220,Chicago,DC Fast Charger,36.72813141128639
+Station_220,Houston,DC Fast Charger,41.55273260700287
+Station_220,Houston,Level 2,40.205987598054165
+Station_220,San Francisco,Level 2,
+Station_221,Houston,Level 1,48.01145593400727
+Station_221,Los Angeles,Level 1,9.873961584874488
+Station_221,Los Angeles,Level 1,14.53360130974745
+Station_222,Houston,Level 2,39.893826100669024
+Station_223,New York,DC Fast Charger,
+Station_223,New York,Level 2,47.25775934357723
+Station_224,Houston,DC Fast Charger,20.27269893513049
+Station_226,Chicago,DC Fast Charger,44.04748117928701
+Station_226,Houston,Level 1,27.173537456201768
+Station_226,San Francisco,DC Fast Charger,17.551626214972885
+Station_226,San Francisco,Level 2,35.13960562879264
+Station_227,Houston,DC Fast Charger,7.38868633786724
+Station_227,New York,Level 1,43.773377108489925
+Station_228,Houston,Level 1,38.57770532755983
+Station_228,San Francisco,DC Fast Charger,6.50874515305308
+Station_228,San Francisco,DC Fast Charger,
+Station_229,Chicago,Level 2,34.72004456356924
+Station_229,Los Angeles,Level 2,7.854182226306737
+Station_229,San Francisco,Level 2,10.600401685765078
+Station_23,Houston,Level 2,23.31161908295264
+Station_23,New York,Level 1,59.14854488775761
+Station_231,New York,Level 1,9.938104195050748
+Station_231,San Francisco,Level 2,17.694894017570398
+Station_232,Chicago,Level 2,46.35165385864999
+Station_232,Los Angeles,DC Fast Charger,
+Station_232,Los Angeles,Level 2,28.74682186959425
+Station_233,Chicago,Level 2,2.2461345077917296
+Station_233,New York,Level 1,32.21173098849586
+Station_234,New York,DC Fast Charger,1.4725491393748178
+Station_234,San Francisco,Level 1,37.73494300980388
+Station_234,San Francisco,Level 2,11.581744386043408
+Station_235,New York,DC Fast Charger,34.74098370272331
+Station_236,San Francisco,Level 2,36.47363187753644
+Station_237,Chicago,DC Fast Charger,24.478005326798822
+Station_237,Chicago,Level 1,3.8023033275213214
+Station_237,New York,DC Fast Charger,20.91795172247681
+Station_237,San Francisco,Level 1,19.16718327808918
+Station_238,Chicago,DC Fast Charger,19.766106813954536
+Station_238,Houston,DC Fast Charger,28.479962126485365
+Station_238,San Francisco,Level 2,8.658326061789474
+Station_239,Los Angeles,Level 2,30.12670190711655
+Station_239,New York,DC Fast Charger,7.043936342279247
+Station_24,Houston,Level 1,39.95811626207474
+Station_240,New York,Level 2,35.45357670634186
+Station_240,San Francisco,Level 1,30.686694797486908
+Station_241,New York,DC Fast Charger,14.239592111842915
+Station_242,Los Angeles,DC Fast Charger,7.675572872388004
+Station_242,San Francisco,Level 1,19.66302252368397
+Station_242,San Francisco,Level 2,19.413529706676293
+Station_244,Houston,Level 2,26.312150401609657
+Station_244,New York,Level 1,7.184034011462772
+Station_246,Chicago,Level 1,45.58156227106593
+Station_246,Chicago,Level 2,28.59951519129401
+Station_246,Chicago,Level 2,36.45383942466944
+Station_246,Houston,Level 2,43.81287256129691
+Station_246,New York,Level 1,16.09934851847499
+Station_246,New York,Level 1,30.40482981653153
+Station_247,Chicago,Level 1,19.01024307896112
+Station_247,Los Angeles,DC Fast Charger,15.002975608272422
+Station_248,New York,Level 2,32.3517607544628
+Station_248,San Francisco,DC Fast Charger,19.40437242911404
+Station_249,Houston,DC Fast Charger,45.5188443075354
+Station_249,New York,Level 2,9.896086973422094
+Station_25,Houston,Level 2,19.137789169043728
+Station_25,San Francisco,Level 1,36.475808205118085
+Station_25,San Francisco,Level 2,16.395516801190116
+Station_250,Chicago,Level 1,7.994911673203704
+Station_250,Houston,Level 2,38.13906947158999
+Station_251,Chicago,DC Fast Charger,34.719681724361955
+Station_251,New York,DC Fast Charger,4.940614327420578
+Station_251,New York,Level 2,25.79660289623908
+Station_252,Los Angeles,DC Fast Charger,27.499247528804364
+Station_252,Los Angeles,Level 1,34.171979726515815
+Station_253,Chicago,DC Fast Charger,31.374967924079545
+Station_253,Chicago,Level 1,41.87715415091096
+Station_254,Houston,DC Fast Charger,
+Station_254,Los Angeles,Level 2,3.660245685624441
+Station_254,New York,Level 2,23.196373698660988
+Station_254,San Francisco,Level 1,4.302635825621664
+Station_255,Chicago,DC Fast Charger,23.824644086480745
+Station_255,Los Angeles,Level 1,17.498632754951903
+Station_255,Los Angeles,Level 1,18.89970325569965
+Station_255,New York,Level 2,37.50320207080665
+Station_256,Los Angeles,Level 1,21.069771396509864
+Station_256,Los Angeles,Level 1,36.077844709089504
+Station_257,Chicago,DC Fast Charger,35.41810599547556
+Station_258,Houston,Level 2,26.562952201212457
+Station_258,New York,Level 2,18.162629025176784
+Station_258,San Francisco,Level 2,11.926340207761143
+Station_258,San Francisco,Level 2,19.48012395431718
+Station_259,Houston,Level 2,40.776826988908375
+Station_259,San Francisco,Level 1,8.991499198950546
+Station_26,Chicago,Level 1,29.633681436250622
+Station_26,New York,Level 1,49.15968568228321
+Station_26,San Francisco,Level 1,9.812104577010492
+Station_260,Houston,Level 1,45.50795122340724
+Station_261,San Francisco,Level 2,16.613387659947108
+Station_262,Chicago,DC Fast Charger,15.863349570407047
+Station_262,Chicago,Level 1,28.359489354784053
+Station_262,Los Angeles,Level 1,37.806096359579605
+Station_262,San Francisco,Level 1,35.31712403702
+Station_263,Houston,DC Fast Charger,18.209034298086348
+Station_263,New York,DC Fast Charger,5.962444720986591
+Station_265,Los Angeles,Level 2,4.275219135924531
+Station_265,San Francisco,Level 2,18.589472298830444
+Station_266,Chicago,DC Fast Charger,15.10098677368136
+Station_266,Houston,DC Fast Charger,25.4125201652172
+Station_266,Los Angeles,Level 2,25.33774294986998
+Station_266,Los Angeles,Level 2,29.146260753872603
+Station_266,San Francisco,Level 2,47.32624673908941
+Station_267,Chicago,DC Fast Charger,27.007663464458027
+Station_267,New York,Level 2,27.876882761572915
+Station_268,Chicago,Level 1,20.75090125342945
+Station_268,Los Angeles,DC Fast Charger,4.90972210158473
+Station_268,New York,Level 2,13.787151372552216
+Station_268,San Francisco,DC Fast Charger,36.55346728472156
+Station_269,Chicago,DC Fast Charger,10.493519676517534
+Station_269,Chicago,DC Fast Charger,13.855271545417976
+Station_27,Houston,Level 1,4.841450613486008
+Station_27,Los Angeles,DC Fast Charger,16.91833198373123
+Station_27,San Francisco,Level 1,9.76614988041083
+Station_270,San Francisco,Level 2,42.42512683318396
+Station_271,Chicago,Level 1,36.88376940480415
+Station_271,Los Angeles,DC Fast Charger,15.408979759429108
+Station_271,Los Angeles,Level 1,8.430755655329502
+Station_271,Los Angeles,Level 1,34.1015981435489
+Station_271,New York,Level 1,42.945683367847664
+Station_271,New York,Level 1,
+Station_272,Los Angeles,Level 2,33.74537926514628
+Station_273,Houston,Level 1,27.121429900667824
+Station_273,Houston,Level 1,37.85307847614943
+Station_273,Los Angeles,DC Fast Charger,9.230954632347297
+Station_273,Los Angeles,Level 2,36.4930549563118
+Station_274,Chicago,Level 2,14.435905055127744
+Station_275,Houston,Level 1,16.93561005158484
+Station_275,Houston,Level 2,23.65002521190977
+Station_275,New York,Level 1,23.292885323425644
+Station_276,Chicago,Level 1,42.7873881539225
+Station_276,Houston,Level 2,37.65992488009884
+Station_277,Chicago,DC Fast Charger,7.330086292613371
+Station_277,Chicago,Level 1,6.239252739553471
+Station_277,Chicago,Level 2,21.383146368000144
+Station_278,New York,Level 1,44.13745109144485
+Station_278,San Francisco,Level 1,32.29091083148934
+Station_279,Houston,Level 1,16.475471001557096
+Station_279,Los Angeles,DC Fast Charger,10.887323539659542
+Station_279,Los Angeles,Level 2,12.510248962442
+Station_279,Los Angeles,Level 2,
+Station_279,New York,Level 1,5.010837899876794
+Station_279,San Francisco,Level 1,38.36925513880513
+Station_28,Los Angeles,DC Fast Charger,47.74613739345097
+Station_280,Los Angeles,DC Fast Charger,8.97054959336193
+Station_281,Chicago,Level 2,11.027648410925542
+Station_282,Chicago,DC Fast Charger,20.87000776757065
+Station_282,Los Angeles,DC Fast Charger,42.822405097963895
+Station_282,San Francisco,DC Fast Charger,20.613804158936112
+Station_282,San Francisco,Level 1,49.60079964847686
+Station_283,Chicago,Level 2,47.97954498307951
+Station_283,San Francisco,Level 1,46.26542306507794
+Station_284,Los Angeles,Level 2,13.798289110981957
+Station_284,New York,Level 1,34.938865911318366
+Station_285,New York,DC Fast Charger,2.63696678953564
+Station_285,San Francisco,Level 1,28.75662025234908
+Station_286,Houston,Level 1,1.6549370676991138
+Station_286,Los Angeles,Level 2,40.48262896138074
+Station_287,Los Angeles,Level 2,31.903997531199416
+Station_287,San Francisco,Level 2,44.492366139662046
+Station_288,Los Angeles,DC Fast Charger,49.5663805841103
+Station_288,San Francisco,DC Fast Charger,12.31861479590845
+Station_289,Los Angeles,Level 1,48.73579805836498
+Station_289,San Francisco,DC Fast Charger,33.308467799457084
+Station_291,San Francisco,DC Fast Charger,13.286811651784502
+Station_291,San Francisco,Level 1,43.00765805491575
+Station_292,Los Angeles,DC Fast Charger,5.365145089951124
+Station_292,Los Angeles,Level 2,11.811002501678058
+Station_292,Los Angeles,Level 2,14.328175525274112
+Station_292,San Francisco,Level 2,27.19648783034448
+Station_294,Chicago,Level 1,30.14418743877484
+Station_294,Los Angeles,DC Fast Charger,23.09310458017072
+Station_294,New York,DC Fast Charger,31.703436019536827
+Station_294,San Francisco,Level 1,6.871184621235036
+Station_296,Chicago,Level 2,41.42637793106033
+Station_296,Houston,Level 1,37.74994617838915
+Station_296,San Francisco,Level 1,15.490027606541537
+Station_296,San Francisco,Level 2,17.573025616919114
+Station_297,Chicago,Level 2,25.79879262675929
+Station_297,Los Angeles,Level 1,36.526791648593296
+Station_297,San Francisco,Level 1,45.86383200819036
+Station_298,Chicago,DC Fast Charger,10.19694664940403
+Station_298,Chicago,Level 2,6.326355675537149
+Station_298,San Francisco,Level 1,21.496163367424792
+Station_299,San Francisco,Level 1,14.767890758738712
+Station_3,Los Angeles,Level 2,46.59567841482084
+Station_3,San Francisco,Level 2,12.817069905556416
+Station_30,Chicago,DC Fast Charger,20.38430440834413
+Station_30,Chicago,Level 1,
+Station_300,Chicago,Level 2,18.49490674734526
+Station_300,New York,Level 2,25.857794702299618
+Station_301,San Francisco,Level 2,21.63010653590449
+Station_302,Houston,Level 2,28.40157855499124
+Station_302,Los Angeles,Level 2,26.7029077655282
+Station_304,Los Angeles,Level 1,28.753354343418906
+Station_304,Los Angeles,Level 1,32.410287611863005
+Station_304,New York,Level 2,31.45405800356461
+Station_304,San Francisco,DC Fast Charger,6.422556538989332
+Station_304,San Francisco,Level 2,47.44796509326113
+Station_305,Houston,DC Fast Charger,35.89219701227775
+Station_306,New York,Level 2,9.913419024012205
+Station_306,San Francisco,Level 1,40.17499281083346
+Station_306,San Francisco,Level 2,11.681362395611878
+Station_307,Chicago,Level 2,11.480485862632262
+Station_307,Chicago,Level 2,24.18785231665501
+Station_307,Los Angeles,Level 1,10.60205634209747
+Station_307,Los Angeles,Level 2,40.84040127692055
+Station_307,New York,Level 1,11.767850572118778
+Station_308,Chicago,Level 1,11.915550358678772
+Station_308,Houston,DC Fast Charger,19.94270234661768
+Station_308,Houston,Level 2,35.730229366216896
+Station_308,Los Angeles,Level 2,10.894668580638834
+Station_308,San Francisco,DC Fast Charger,26.08789210553548
+Station_309,Chicago,Level 1,27.64508954769722
+Station_309,Chicago,Level 1,34.24176571321428
+Station_309,Houston,Level 2,13.226974760476542
+Station_309,Houston,Level 2,44.4507308475323
+Station_309,New York,Level 1,1.722296153828387
+Station_310,Chicago,Level 1,
+Station_310,Houston,DC Fast Charger,5.2652032847754455
+Station_310,New York,DC Fast Charger,4.1099254234670255
+Station_310,New York,Level 1,25.76719413816637
+Station_311,Chicago,DC Fast Charger,30.22669452502872
+Station_311,San Francisco,Level 2,38.62554559470691
+Station_312,Houston,DC Fast Charger,17.354640600950866
+Station_312,New York,DC Fast Charger,37.68861950326764
+Station_312,New York,DC Fast Charger,
+Station_313,Chicago,DC Fast Charger,17.12999180051812
+Station_313,Chicago,Level 1,37.868282872164
+Station_313,Los Angeles,Level 1,43.23390652289862
+Station_313,Los Angeles,Level 2,2.5609434336711026
+Station_314,New York,DC Fast Charger,36.7698740294614
+Station_314,San Francisco,Level 1,25.60162087204433
+Station_315,Houston,Level 1,31.983192464080947
+Station_315,New York,DC Fast Charger,42.92910573577623
+Station_317,San Francisco,Level 2,11.339063162639302
+Station_318,Los Angeles,DC Fast Charger,14.16343771987751
+Station_318,Los Angeles,Level 2,32.73315159147063
+Station_318,San Francisco,Level 1,49.3332345217414
+Station_319,Chicago,DC Fast Charger,23.4663558449473
+Station_32,Chicago,Level 1,
+Station_32,Houston,DC Fast Charger,26.32801687036438
+Station_32,Houston,Level 2,32.29204570108007
+Station_32,Los Angeles,Level 1,
+Station_320,Chicago,Level 1,10.62138589036472
+Station_321,Los Angeles,Level 1,27.14552199858703
+Station_322,Houston,DC Fast Charger,20.452512310927712
+Station_322,San Francisco,Level 1,22.068883731114205
+Station_322,San Francisco,Level 2,22.68042226602135
+Station_323,Chicago,Level 2,36.36127862677181
+Station_323,Los Angeles,DC Fast Charger,7.477687525988695
+Station_324,Chicago,Level 2,9.68468697592609
+Station_324,Los Angeles,DC Fast Charger,49.92072559945864
+Station_324,Los Angeles,Level 1,47.72349822012419
+Station_324,New York,Level 1,21.10837172285618
+Station_324,New York,Level 1,36.32372774760015
+Station_324,New York,Level 2,6.023479239058313
+Station_325,Houston,DC Fast Charger,14.860688976543733
+Station_325,Houston,Level 2,38.26182988936178
+Station_325,Los Angeles,Level 1,17.23173869250797
+Station_325,New York,DC Fast Charger,6.798600809086855
+Station_325,San Francisco,DC Fast Charger,40.14362962979752
+Station_326,Chicago,DC Fast Charger,26.14430269947817
+Station_326,New York,DC Fast Charger,49.71030696901287
+Station_327,Houston,Level 1,32.882869757386224
+Station_327,Houston,Level 2,19.76909871755716
+Station_327,New York,DC Fast Charger,32.79732044472121
+Station_327,San Francisco,Level 2,26.97034258500664
+Station_328,Houston,Level 2,49.85189638729916
+Station_328,New York,DC Fast Charger,7.997038341783679
+Station_329,Houston,Level 2,37.60056305645556
+Station_329,Los Angeles,Level 1,34.39817877514721
+Station_329,Los Angeles,Level 2,7.007637736562545
+Station_33,Houston,Level 1,49.36125110170392
+Station_330,Houston,DC Fast Charger,29.90830340221348
+Station_330,Houston,Level 1,41.03311513860815
+Station_330,Houston,Level 2,37.44551097801787
+Station_331,San Francisco,Level 1,28.509014979393807
+Station_332,New York,Level 1,38.51392773049149
+Station_333,Houston,DC Fast Charger,40.42078195542164
+Station_333,Los Angeles,Level 2,
+Station_333,New York,DC Fast Charger,5.971664972824204
+Station_334,Chicago,DC Fast Charger,23.618123845206853
+Station_334,Los Angeles,Level 1,27.328398363692767
+Station_334,New York,Level 2,11.161935288902695
+Station_334,San Francisco,Level 2,15.230062587672052
+Station_335,San Francisco,DC Fast Charger,8.388039538136447
+Station_335,San Francisco,DC Fast Charger,14.33452277611833
+Station_335,San Francisco,DC Fast Charger,
+Station_336,Chicago,DC Fast Charger,5.335241682956592
+Station_336,Chicago,DC Fast Charger,30.9970269340748
+Station_336,Chicago,DC Fast Charger,32.09365177234676
+Station_336,Houston,Level 2,15.256569201592624
+Station_336,San Francisco,Level 2,2.8261462517994547
+Station_336,San Francisco,Level 2,38.148183267445766
+Station_337,Chicago,DC Fast Charger,29.635980652736865
+Station_337,Chicago,Level 2,44.05048455914645
+Station_337,Los Angeles,Level 1,18.68529365558645
+Station_337,San Francisco,DC Fast Charger,12.953727651636695
+Station_338,Houston,DC Fast Charger,14.420929224434923
+Station_338,Houston,Level 1,23.75243531899124
+Station_338,San Francisco,Level 1,36.78209781352172
+Station_339,Houston,Level 1,41.19625063945213
+Station_339,Los Angeles,Level 1,22.344440296603008
+Station_34,Houston,Level 1,5.557358509328086
+Station_34,Houston,Level 1,
+Station_34,New York,DC Fast Charger,33.63605071304322
+Station_34,New York,Level 2,4.71158320497076
+Station_340,San Francisco,Level 1,45.7767311942711
+Station_341,New York,DC Fast Charger,8.424644632127169
+Station_341,New York,Level 2,41.81029740859989
+Station_341,San Francisco,DC Fast Charger,22.57264064944385
+Station_342,Chicago,Level 1,9.80124301601001
+Station_342,Chicago,Level 1,18.819584772025628
+Station_342,Houston,Level 1,5.488039505342126
+Station_342,San Francisco,Level 2,38.70199053243804
+Station_343,Chicago,DC Fast Charger,29.98922250219449
+Station_343,Houston,DC Fast Charger,20.271139390382576
+Station_343,Los Angeles,Level 2,34.85455500887653
+Station_343,New York,Level 2,7.85189464136765
+Station_343,San Francisco,DC Fast Charger,38.70625781494024
+Station_344,Chicago,DC Fast Charger,17.00535033559547
+Station_344,San Francisco,DC Fast Charger,31.59720483051509
+Station_344,San Francisco,Level 2,31.655896284542944
+Station_346,Chicago,DC Fast Charger,41.74355879617509
+Station_347,San Francisco,Level 1,41.33293546359443
+Station_348,Chicago,Level 1,9.137049424320672
+Station_348,New York,Level 1,16.557852451214444
+Station_349,Los Angeles,Level 1,37.175570755361626
+Station_35,Houston,DC Fast Charger,15.222513527799864
+Station_35,Houston,Level 1,4.092360865180499
+Station_35,Houston,Level 1,49.4167326886436
+Station_350,Los Angeles,Level 2,20.080307716207404
+Station_351,San Francisco,DC Fast Charger,24.98401295415121
+Station_351,San Francisco,Level 1,30.9314277897324
+Station_351,San Francisco,Level 2,14.434749406529797
+Station_352,Houston,DC Fast Charger,30.659343811920305
+Station_352,Houston,Level 2,11.089826996423842
+Station_352,Los Angeles,Level 2,30.74927681610981
+Station_353,Los Angeles,Level 1,3.827057840993469
+Station_353,Los Angeles,Level 2,37.51415163304576
+Station_353,New York,Level 1,63.216118380746416
+Station_354,Los Angeles,DC Fast Charger,7.195331905849656
+Station_354,Los Angeles,Level 2,41.30756664038859
+Station_354,New York,DC Fast Charger,41.83746249782165
+Station_354,San Francisco,DC Fast Charger,18.561165291353888
+Station_355,San Francisco,Level 1,10.41398710364594
+Station_355,San Francisco,Level 2,14.03909939573777
+Station_355,San Francisco,Level 2,23.09814335289288
+Station_356,Houston,DC Fast Charger,49.1166092730102
+Station_356,Los Angeles,Level 1,12.163397213863936
+Station_356,San Francisco,DC Fast Charger,48.78868465608588
+Station_357,Houston,DC Fast Charger,11.179014560862132
+Station_357,Los Angeles,Level 1,9.166036637016663
+Station_357,New York,Level 2,24.021573950806896
+Station_357,San Francisco,Level 2,25.399493636182896
+Station_358,Chicago,DC Fast Charger,7.243947955667937
+Station_358,Houston,DC Fast Charger,21.067668668395044
+Station_359,Los Angeles,Level 2,32.30310225795641
+Station_36,New York,Level 2,15.963532916763002
+Station_36,New York,Level 2,49.2753455894196
+Station_361,Houston,Level 1,36.18237188372349
+Station_362,New York,Level 1,43.375916432063285
+Station_362,New York,Level 2,8.831573588393466
+Station_362,New York,Level 2,43.01294385875995
+Station_363,New York,DC Fast Charger,6.341781289968012
+Station_364,Los Angeles,Level 2,35.92852161296851
+Station_365,Chicago,DC Fast Charger,14.435352434618428
+Station_365,Los Angeles,DC Fast Charger,28.43834686607273
+Station_365,Los Angeles,Level 2,38.82106904731582
+Station_365,New York,DC Fast Charger,36.24955021074656
+Station_366,Houston,DC Fast Charger,28.16853365416375
+Station_366,New York,Level 2,18.27526175148793
+Station_366,New York,Level 2,71.6210409570786
+Station_367,San Francisco,Level 1,8.364823050543798
+Station_367,San Francisco,Level 1,32.092788481760344
+Station_367,San Francisco,Level 2,50.35062408297797
+Station_368,Houston,Level 2,46.12968887401014
+Station_368,Los Angeles,Level 2,48.5891782123757
+Station_368,New York,Level 2,30.429448129131227
+Station_368,San Francisco,Level 1,37.57454771494434
+Station_369,Chicago,Level 1,5.592196058327311
+Station_37,Los Angeles,Level 2,46.31316024594766
+Station_370,New York,DC Fast Charger,37.29155391458031
+Station_371,Chicago,Level 1,31.65043077258852
+Station_371,Los Angeles,DC Fast Charger,48.766303687005376
+Station_372,Los Angeles,Level 2,5.44374481066405
+Station_373,Chicago,DC Fast Charger,35.39040522700007
+Station_373,Houston,Level 2,18.97988934768992
+Station_373,New York,Level 1,22.11602009706145
+Station_373,New York,Level 1,25.290644953249668
+Station_374,New York,DC Fast Charger,45.48206597304863
+Station_375,New York,Level 2,41.18046160227635
+Station_376,Houston,Level 2,17.34136645625693
+Station_376,Los Angeles,DC Fast Charger,29.92814716211848
+Station_376,Los Angeles,Level 1,47.52616641750279
+Station_377,Houston,Level 2,17.56016007058113
+Station_377,Los Angeles,Level 1,
+Station_377,New York,Level 2,22.98621553783393
+Station_378,Chicago,Level 1,46.33334189802024
+Station_378,Houston,Level 1,38.98816936527054
+Station_378,Houston,Level 2,40.61639923013172
+Station_378,Los Angeles,DC Fast Charger,36.09228626089304
+Station_378,New York,DC Fast Charger,19.43713227241471
+Station_379,Chicago,Level 2,9.14250329772684
+Station_38,Los Angeles,DC Fast Charger,18.05023748722661
+Station_380,Houston,DC Fast Charger,14.832917019534175
+Station_380,Los Angeles,Level 1,6.3463350749875405
+Station_380,New York,Level 2,4.6696670367747615
+Station_381,Chicago,Level 2,27.773067432070523
+Station_381,Los Angeles,Level 1,25.576110372241647
+Station_381,San Francisco,Level 2,45.36451456071446
+Station_382,Chicago,DC Fast Charger,6.306066001187466
+Station_382,Los Angeles,DC Fast Charger,33.70234120475917
+Station_382,Los Angeles,DC Fast Charger,43.967390638822295
+Station_382,Los Angeles,Level 2,16.71357046527665
+Station_382,Los Angeles,Level 2,18.571639163452865
+Station_383,Los Angeles,Level 1,12.830881426012573
+Station_384,New York,Level 1,46.35099882248561
+Station_385,New York,DC Fast Charger,18.59404896023581
+Station_386,Chicago,Level 1,23.379598455661355
+Station_386,New York,DC Fast Charger,42.38027139821144
+Station_387,Los Angeles,Level 1,6.452270808883824
+Station_387,Los Angeles,Level 2,
+Station_388,Los Angeles,Level 2,49.308369400939775
+Station_388,San Francisco,Level 2,18.622976474713525
+Station_389,Chicago,Level 1,37.46234418585593
+Station_39,Los Angeles,Level 1,33.333004333464
+Station_39,New York,DC Fast Charger,20.939420194012936
+Station_39,San Francisco,Level 2,42.3379255017768
+Station_390,Houston,Level 1,16.20549350507357
+Station_390,New York,Level 1,18.865801960923783
+Station_391,Chicago,Level 2,5.210684627425631
+Station_391,Houston,DC Fast Charger,36.3891805669814
+Station_391,Houston,Level 1,29.468944357780007
+Station_391,San Francisco,Level 2,22.32469710701733
+Station_391,San Francisco,Level 2,45.32010959769544
+Station_392,Los Angeles,Level 2,42.83582803315509
+Station_392,New York,DC Fast Charger,27.381349198927023
+Station_392,New York,DC Fast Charger,32.83003788863654
+Station_393,Houston,Level 2,5.76663577394962
+Station_393,San Francisco,DC Fast Charger,6.792363387650859
+Station_393,San Francisco,Level 2,11.31413118672819
+Station_394,Chicago,Level 2,51.3635932476184
+Station_394,Los Angeles,DC Fast Charger,7.703067645420777
+Station_396,Los Angeles,DC Fast Charger,35.152484717746816
+Station_396,Los Angeles,Level 1,41.515196392009486
+Station_396,New York,Level 2,26.749078187318933
+Station_397,Houston,Level 1,4.315961671253241
+Station_397,Los Angeles,Level 1,36.15762510493737
+Station_398,Chicago,Level 2,36.76426976231584
+Station_398,New York,DC Fast Charger,11.215789280105415
+Station_399,Chicago,DC Fast Charger,
+Station_399,San Francisco,DC Fast Charger,4.050226868409404
+Station_4,Chicago,DC Fast Charger,33.64483513585735
+Station_4,Chicago,Level 2,37.52496219553434
+Station_4,Houston,DC Fast Charger,11.017996608332188
+Station_4,Houston,DC Fast Charger,32.25343212250283
+Station_40,New York,Level 1,11.441407583369728
+Station_40,New York,Level 2,18.388011513893147
+Station_400,Houston,Level 1,22.06190557198344
+Station_400,San Francisco,Level 1,10.566450938160475
+Station_401,San Francisco,Level 1,43.49684995974235
+Station_401,San Francisco,Level 2,19.167160983415208
+Station_402,Houston,DC Fast Charger,4.48564710517362
+Station_402,Houston,Level 1,6.558201297307768
+Station_402,New York,DC Fast Charger,15.800004164216077
+Station_402,New York,Level 2,26.012469410984444
+Station_402,New York,Level 2,26.086973082683723
+Station_402,San Francisco,DC Fast Charger,29.087280550451776
+Station_403,Los Angeles,Level 1,11.89627327539795
+Station_403,New York,DC Fast Charger,48.99622283601657
+Station_404,Chicago,Level 1,23.771635495233188
+Station_404,New York,Level 1,6.927506568259337
+Station_404,San Francisco,Level 1,40.57558754811164
+Station_405,Chicago,DC Fast Charger,25.83848785072016
+Station_405,Chicago,DC Fast Charger,37.02662574504806
+Station_405,Houston,DC Fast Charger,
+Station_405,Houston,Level 1,
+Station_405,San Francisco,DC Fast Charger,31.277429485665618
+Station_407,San Francisco,Level 2,3.856692166975177
+Station_408,Houston,Level 2,35.05498942171652
+Station_408,Los Angeles,DC Fast Charger,23.61922632717278
+Station_408,San Francisco,Level 2,11.40879036693086
+Station_409,Chicago,DC Fast Charger,18.905372831421296
+Station_409,Chicago,Level 1,8.179964335506256
+Station_409,Houston,Level 1,31.115244479482783
+Station_41,Los Angeles,DC Fast Charger,25.58416841581989
+Station_41,San Francisco,Level 2,19.6515444967108
+Station_410,Chicago,DC Fast Charger,46.84858796557754
+Station_410,Los Angeles,Level 2,6.897878329777162
+Station_410,San Francisco,Level 1,14.606984402944972
+Station_410,San Francisco,Level 1,28.155322376505964
+Station_412,Chicago,Level 1,6.483340580349086
+Station_412,Houston,Level 1,12.329512359502848
+Station_412,Los Angeles,Level 2,14.564929422469216
+Station_412,New York,DC Fast Charger,29.44664264254554
+Station_413,Los Angeles,DC Fast Charger,32.97506874142168
+Station_413,Los Angeles,Level 1,40.88409889822898
+Station_413,Los Angeles,Level 2,5.720465260145438
+Station_414,Chicago,Level 1,12.546861495301147
+Station_414,Chicago,Level 1,36.810730035560326
+Station_414,Los Angeles,Level 1,47.82948046168556
+Station_415,Houston,DC Fast Charger,45.19091647032926
+Station_415,San Francisco,DC Fast Charger,32.95083718392784
+Station_416,Houston,Level 1,30.32389571922
+Station_416,San Francisco,DC Fast Charger,36.28607872971303
+Station_416,San Francisco,Level 1,41.75876322009111
+Station_417,Houston,Level 2,3.508161487393433
+Station_417,New York,DC Fast Charger,26.037607462215725
+Station_417,New York,Level 1,18.718296489912422
+Station_418,New York,Level 1,
+Station_419,Chicago,Level 1,44.95562494894919
+Station_419,Chicago,Level 2,43.12040329879288
+Station_419,Los Angeles,Level 2,33.78877718721532
+Station_42,Chicago,Level 2,23.324573102976085
+Station_42,Chicago,Level 2,46.32809897435823
+Station_42,Houston,DC Fast Charger,26.5778147612731
+Station_42,New York,Level 1,4.875602271353545
+Station_42,New York,Level 1,10.446145756658929
+Station_42,San Francisco,DC Fast Charger,14.090858743837904
+Station_420,Chicago,Level 1,22.02798564744779
+Station_420,Houston,DC Fast Charger,13.302986684846337
+Station_420,Los Angeles,Level 2,39.21578542752447
+Station_420,New York,Level 1,34.26166814743536
+Station_421,Houston,Level 2,43.60970746385774
+Station_422,Los Angeles,DC Fast Charger,3.806546848260664
+Station_422,Los Angeles,DC Fast Charger,41.34889744678012
+Station_422,New York,Level 1,24.625701062345183
+Station_423,Los Angeles,Level 2,37.93422821858356
+Station_423,San Francisco,Level 1,20.99245325759676
+Station_424,Houston,Level 2,9.977877021843266
+Station_424,Los Angeles,DC Fast Charger,4.034655716474346
+Station_424,Los Angeles,Level 2,10.32712933232258
+Station_424,New York,DC Fast Charger,6.310026487597654
+Station_424,New York,Level 1,3.0234852824803093
+Station_425,New York,Level 1,49.63914436226428
+Station_426,Houston,DC Fast Charger,18.89050926115035
+Station_426,Houston,DC Fast Charger,25.27459825729891
+Station_426,Los Angeles,Level 1,33.68293022414009
+Station_426,San Francisco,DC Fast Charger,21.343936482346656
+Station_427,San Francisco,Level 1,9.634031616098616
+Station_428,San Francisco,Level 1,12.27483650878592
+Station_428,San Francisco,Level 1,30.67773493971444
+Station_429,Los Angeles,Level 2,21.851929962768004
+Station_429,New York,DC Fast Charger,6.638807142566019
+Station_429,New York,Level 2,17.400526642896487
+Station_43,Chicago,Level 1,32.95451081519971
+Station_43,New York,DC Fast Charger,13.109736836228274
+Station_430,Los Angeles,DC Fast Charger,24.47957144861078
+Station_431,Chicago,DC Fast Charger,41.54944191942096
+Station_431,Los Angeles,DC Fast Charger,42.09577517242755
+Station_431,San Francisco,Level 1,46.80571252211528
+Station_433,Chicago,DC Fast Charger,18.9999255898608
+Station_433,Houston,DC Fast Charger,46.41136085382428
+Station_433,Los Angeles,Level 1,17.12970237970592
+Station_433,New York,Level 1,20.98803214685549
+Station_433,New York,Level 1,25.364863634137112
+Station_433,San Francisco,Level 1,41.66867825242623
+Station_434,New York,Level 1,20.49084604597367
+Station_434,San Francisco,DC Fast Charger,37.912464345424
+Station_435,San Francisco,Level 2,5.587311138334597
+Station_436,Houston,DC Fast Charger,5.370384189809226
+Station_436,Houston,DC Fast Charger,15.17023591981323
+Station_436,Houston,DC Fast Charger,18.562655792808293
+Station_436,Houston,DC Fast Charger,31.5531561687629
+Station_437,San Francisco,DC Fast Charger,34.48123071791808
+Station_438,Chicago,DC Fast Charger,45.81173100244055
+Station_438,Houston,Level 2,26.2327228750375
+Station_438,Los Angeles,DC Fast Charger,9.582158682023236
+Station_439,Houston,DC Fast Charger,46.15424524259217
+Station_439,Houston,Level 1,29.830665356048325
+Station_439,San Francisco,Level 1,15.822164791755156
+Station_44,Houston,Level 1,6.762530033811055
+Station_44,Houston,Level 2,17.9473945941715
+Station_44,Los Angeles,DC Fast Charger,18.06959233298836
+Station_44,Los Angeles,Level 1,21.76519335517244
+Station_44,New York,DC Fast Charger,44.995222235265096
+Station_44,San Francisco,DC Fast Charger,34.00613293122943
+Station_440,New York,Level 1,
+Station_441,Chicago,Level 2,14.167129141388296
+Station_442,Houston,DC Fast Charger,5.092837673638758
+Station_442,Houston,Level 2,37.73621870166026
+Station_442,New York,DC Fast Charger,4.86831209228205
+Station_442,San Francisco,DC Fast Charger,34.04604092712868
+Station_442,San Francisco,Level 2,38.775620008365
+Station_443,Chicago,Level 1,18.94297603650753
+Station_443,Los Angeles,DC Fast Charger,9.761640088024611
+Station_443,Los Angeles,DC Fast Charger,48.073862196486175
+Station_443,Los Angeles,Level 2,29.208426798948363
+Station_444,Chicago,Level 1,29.900892186844303
+Station_444,Houston,DC Fast Charger,35.87112112811267
+Station_444,New York,Level 2,16.0193428037057
+Station_444,San Francisco,Level 1,6.453837984027844
+Station_445,Chicago,DC Fast Charger,38.70203714776589
+Station_445,San Francisco,Level 2,
+Station_446,Houston,DC Fast Charger,11.667438213057288
+Station_446,Los Angeles,DC Fast Charger,34.58457236976521
+Station_446,New York,Level 2,13.080022985194764
+Station_446,San Francisco,Level 1,14.86299534511134
+Station_446,San Francisco,Level 2,45.67133508007575
+Station_447,New York,Level 2,45.37916919866272
+Station_447,New York,Level 2,50.170585945493926
+Station_448,Houston,DC Fast Charger,36.3770757935734
+Station_448,San Francisco,DC Fast Charger,8.455838521683116
+Station_45,Chicago,DC Fast Charger,28.62519932675557
+Station_45,Chicago,Level 2,15.836202414689543
+Station_45,Los Angeles,Level 1,
+Station_45,Los Angeles,Level 2,3.856230310405413
+Station_450,Houston,DC Fast Charger,13.825035587120569
+Station_450,San Francisco,DC Fast Charger,29.199086932973444
+Station_451,Chicago,Level 1,32.949711654976355
+Station_451,Los Angeles,Level 1,12.511897274758086
+Station_451,Los Angeles,Level 2,31.22297313743316
+Station_451,San Francisco,Level 1,11.380196211545622
+Station_452,Chicago,DC Fast Charger,11.76099971515701
+Station_452,Houston,Level 1,41.31627181654345
+Station_453,Los Angeles,Level 1,8.403361701935179
+Station_454,Houston,Level 1,6.98513680525674
+Station_455,Chicago,Level 2,
+Station_455,San Francisco,DC Fast Charger,19.14919319503228
+Station_457,Chicago,Level 1,5.579750455304233
+Station_457,Houston,DC Fast Charger,47.29035525269705
+Station_457,New York,Level 1,34.45341482483377
+Station_458,Chicago,DC Fast Charger,41.69006799409875
+Station_458,Chicago,Level 2,10.491920900615758
+Station_459,Chicago,DC Fast Charger,31.23151272273644
+Station_459,Chicago,Level 1,7.34702904042674
+Station_459,Houston,Level 1,34.04003943718871
+Station_46,Chicago,Level 2,9.860027647642006
+Station_46,San Francisco,Level 1,43.00986974325926
+Station_460,Los Angeles,Level 2,17.89966430419242
+Station_460,New York,DC Fast Charger,26.13523981227178
+Station_460,New York,Level 1,47.81692135737631
+Station_460,San Francisco,DC Fast Charger,6.999032822023879
+Station_461,Chicago,Level 1,4.3193301269317
+Station_461,Chicago,Level 1,8.057717582270522
+Station_461,Houston,Level 2,20.46036486895017
+Station_461,Houston,Level 2,21.06032430839848
+Station_461,Los Angeles,Level 2,30.979410566232023
+Station_461,San Francisco,Level 1,57.099752173598255
+Station_461,San Francisco,Level 2,49.75179689755983
+Station_462,Los Angeles,DC Fast Charger,35.90037572075738
+Station_463,Chicago,DC Fast Charger,38.14908200155225
+Station_463,Chicago,Level 1,
+Station_463,New York,Level 2,21.898724384362577
+Station_464,Chicago,Level 2,36.21828322200848
+Station_466,San Francisco,Level 1,41.3779107591241
+Station_468,Chicago,Level 2,45.60140061591688
+Station_468,Los Angeles,DC Fast Charger,49.46138235507399
+Station_468,New York,Level 1,12.02937482597922
+Station_469,Los Angeles,Level 1,13.036283136136436
+Station_469,Los Angeles,Level 1,47.633710498339866
+Station_469,New York,DC Fast Charger,46.87510964459352
+Station_469,San Francisco,DC Fast Charger,47.4435191653886
+Station_47,Chicago,Level 2,48.38467691618706
+Station_47,Los Angeles,DC Fast Charger,
+Station_470,Los Angeles,Level 2,8.613364508124336
+Station_471,Houston,Level 1,38.79607655154279
+Station_471,New York,Level 1,41.21937464677459
+Station_472,Chicago,Level 2,39.8371740806264
+Station_472,Los Angeles,Level 2,21.24491493482296
+Station_472,Los Angeles,Level 2,47.75905348319621
+Station_474,Chicago,Level 2,9.721254707800986
+Station_474,Houston,DC Fast Charger,48.1603346331429
+Station_474,New York,DC Fast Charger,37.24345801158542
+Station_474,San Francisco,Level 2,41.61784215307051
+Station_475,Houston,DC Fast Charger,6.590228457006733
+Station_476,Los Angeles,DC Fast Charger,3.855782923246637
+Station_477,Los Angeles,Level 2,8.5590068567144
+Station_477,New York,DC Fast Charger,31.47135995232412
+Station_477,San Francisco,DC Fast Charger,12.374493987456692
+Station_478,Los Angeles,Level 1,23.43530217692562
+Station_478,New York,DC Fast Charger,13.422390897899296
+Station_478,New York,Level 1,30.94275330829091
+Station_478,San Francisco,Level 2,
+Station_479,Chicago,DC Fast Charger,22.7071329794279
+Station_479,Chicago,Level 1,16.976051559877522
+Station_479,Los Angeles,Level 1,37.77442265439287
+Station_479,Los Angeles,Level 1,45.2106299385636
+Station_479,San Francisco,Level 2,15.442091209962834
+Station_48,Houston,Level 2,46.58137118308024
+Station_48,Los Angeles,Level 1,45.80149944059677
+Station_480,Chicago,Level 1,19.086494735500263
+Station_480,Chicago,Level 2,46.96981830114844
+Station_480,Houston,DC Fast Charger,30.388803808157416
+Station_480,New York,Level 2,17.63994452579628
+Station_481,San Francisco,Level 1,45.5056750420217
+Station_481,San Francisco,Level 2,30.60352809932764
+Station_482,New York,DC Fast Charger,47.33304581130439
+Station_483,New York,DC Fast Charger,38.4249009837934
+Station_484,Chicago,Level 2,29.5358934103807
+Station_484,Houston,DC Fast Charger,39.08038684912086
+Station_485,Chicago,Level 2,12.802289341306434
+Station_485,Houston,DC Fast Charger,38.34376389041496
+Station_485,Los Angeles,DC Fast Charger,33.84247374666808
+Station_485,New York,Level 1,36.74898063246032
+Station_485,New York,Level 1,
+Station_486,Chicago,Level 2,47.503737971035065
+Station_486,Houston,Level 1,24.4507632366001
+Station_486,New York,DC Fast Charger,28.587452781207983
+Station_486,San Francisco,Level 1,15.4157930600366
+Station_486,San Francisco,Level 2,39.856189586296345
+Station_487,Chicago,DC Fast Charger,30.64392047525133
+Station_487,Chicago,Level 1,33.372714771158726
+Station_487,New York,Level 1,47.43975214885614
+Station_488,Los Angeles,DC Fast Charger,47.90206130269109
+Station_488,New York,Level 2,38.34408586043845
+Station_489,Chicago,DC Fast Charger,11.019391595294064
+Station_49,Houston,Level 2,40.67941803976215
+Station_49,Los Angeles,DC Fast Charger,11.595383272812684
+Station_49,Los Angeles,Level 1,41.494238016038736
+Station_49,San Francisco,DC Fast Charger,
+Station_49,San Francisco,Level 2,12.962522175124477
+Station_49,San Francisco,Level 2,13.61905213687039
+Station_492,Houston,Level 1,25.291575946285857
+Station_493,Los Angeles,Level 1,14.294922926661108
+Station_493,New York,Level 2,4.194196976474822
+Station_493,San Francisco,Level 2,20.394976393778617
+Station_494,Houston,Level 1,24.621651183384863
+Station_494,Los Angeles,Level 1,12.886573479546891
+Station_496,Chicago,Level 1,35.82084576495499
+Station_496,Houston,Level 1,9.986771923019903
+Station_496,Los Angeles,Level 1,18.31744606413184
+Station_497,Chicago,DC Fast Charger,4.78414666269556
+Station_497,Los Angeles,DC Fast Charger,40.51570933543204
+Station_498,Chicago,Level 1,21.857389617404845
+Station_498,Los Angeles,Level 1,14.884354058498058
+Station_498,New York,DC Fast Charger,35.9959370444312
+Station_498,San Francisco,Level 1,42.36438973237176
+Station_499,Los Angeles,Level 1,12.54074292674547
+Station_5,Houston,DC Fast Charger,35.788923541786666
+Station_5,Los Angeles,Level 2,3.593327631512293
+Station_5,San Francisco,DC Fast Charger,42.39327710410479
+Station_51,Los Angeles,Level 1,16.674739845440627
+Station_51,Los Angeles,Level 1,30.52868478649712
+Station_51,New York,DC Fast Charger,40.53974347421139
+Station_51,San Francisco,DC Fast Charger,9.038507110178308
+Station_51,San Francisco,DC Fast Charger,19.66967079300812
+Station_52,Los Angeles,DC Fast Charger,36.00275417138911
+Station_53,New York,Level 2,47.84255660041194
+Station_55,Chicago,DC Fast Charger,25.37395430520664
+Station_55,Chicago,DC Fast Charger,
+Station_55,Los Angeles,Level 1,13.175727296302622
+Station_55,New York,Level 1,15.099483913288104
+Station_56,Chicago,Level 1,31.31248135190241
+Station_56,Houston,Level 1,
+Station_56,San Francisco,Level 2,4.340098531957683
+Station_57,Houston,DC Fast Charger,9.18907742881566
+Station_57,Houston,Level 1,4.881436198623996
+Station_57,Houston,Level 2,8.125454971256818
+Station_57,Los Angeles,Level 1,41.419459031249644
+Station_57,New York,DC Fast Charger,5.895475086176862
+Station_57,New York,Level 2,11.336239337835234
+Station_58,Chicago,Level 1,12.064391459035129
+Station_58,Houston,Level 2,11.093063212886497
+Station_58,Los Angeles,Level 2,35.128246837314904
+Station_59,Houston,Level 2,10.890131082923729
+Station_6,Los Angeles,Level 2,31.271844526976924
+Station_61,Chicago,Level 1,23.72699960944185
+Station_61,San Francisco,Level 2,17.00464384697846
+Station_62,Houston,DC Fast Charger,
+Station_62,Houston,Level 2,43.70221210436277
+Station_62,New York,Level 1,67.9346789314074
+Station_62,San Francisco,Level 2,23.022124692445743
+Station_63,Chicago,Level 2,16.394166206151134
+Station_63,Houston,DC Fast Charger,28.977394499900573
+Station_63,Houston,Level 1,18.33554745794532
+Station_63,New York,Level 1,10.879676124662645
+Station_64,San Francisco,DC Fast Charger,
+Station_65,Houston,DC Fast Charger,10.063093768622078
+Station_66,Chicago,Level 2,18.136176918025765
+Station_66,Houston,Level 1,32.994341529878724
+Station_67,Houston,DC Fast Charger,23.281804960483075
+Station_67,San Francisco,Level 1,
+Station_68,Chicago,Level 2,33.527215373664504
+Station_68,Houston,Level 1,23.43002274979381
+Station_68,Houston,Level 1,29.753158714478868
+Station_68,Los Angeles,DC Fast Charger,30.48577367290176
+Station_69,Los Angeles,DC Fast Charger,32.99482958919536
+Station_69,Los Angeles,Level 1,25.40285241085352
+Station_69,Los Angeles,Level 2,7.851718359790319
+Station_69,New York,DC Fast Charger,36.303372348344666
+Station_69,San Francisco,DC Fast Charger,31.74576567162516
+Station_69,San Francisco,Level 2,19.79464958944829
+Station_7,Chicago,Level 1,21.280008595542856
+Station_7,New York,Level 1,42.51668875692226
+Station_70,Los Angeles,Level 2,25.276272098020304
+Station_71,Houston,Level 1,23.417921150036506
+Station_71,Houston,Level 2,26.97742286397169
+Station_71,Los Angeles,Level 1,41.92916859260739
+Station_71,New York,DC Fast Charger,20.619603394084866
+Station_71,San Francisco,DC Fast Charger,39.03935628043056
+Station_71,San Francisco,Level 2,21.723067323519977
+Station_72,Houston,Level 1,16.98014038038876
+Station_72,Houston,Level 1,37.46218915223994
+Station_73,San Francisco,DC Fast Charger,14.554415345938793
+Station_74,Chicago,DC Fast Charger,35.93476782027548
+Station_74,Houston,Level 1,36.56255636850435
+Station_74,Los Angeles,Level 1,23.603714404727395
+Station_74,San Francisco,DC Fast Charger,26.50464266178465
+Station_74,San Francisco,DC Fast Charger,48.76808403617098
+Station_74,San Francisco,Level 2,
+Station_75,Los Angeles,Level 1,26.640176850452665
+Station_76,Chicago,DC Fast Charger,12.309725069846412
+Station_76,Houston,DC Fast Charger,32.868369584228795
+Station_76,Houston,Level 2,38.31515901166463
+Station_76,Los Angeles,Level 1,16.880572186148093
+Station_76,Los Angeles,Level 1,41.06704109745447
+Station_77,Los Angeles,DC Fast Charger,
+Station_77,San Francisco,DC Fast Charger,20.317417967928414
+Station_78,Chicago,Level 1,23.99284957205273
+Station_78,Houston,DC Fast Charger,44.0476453908667
+Station_78,Houston,Level 2,8.690646595879642
+Station_78,Los Angeles,Level 1,
+Station_78,San Francisco,DC Fast Charger,4.46482262892762
+Station_78,San Francisco,Level 1,35.239594294264535
+Station_79,Los Angeles,Level 1,22.41630595649871
+Station_79,Los Angeles,Level 2,22.672767380865302
+Station_79,San Francisco,Level 1,26.07041362744592
+Station_8,Chicago,Level 2,22.11445681424676
+Station_8,Los Angeles,DC Fast Charger,40.998375341873775
+Station_80,Chicago,DC Fast Charger,38.11018090389658
+Station_80,New York,Level 1,
+Station_81,Los Angeles,Level 2,30.48996023396868
+Station_81,New York,Level 2,34.01485460165388
+Station_82,Chicago,Level 1,13.79927221343662
+Station_82,Houston,Level 1,12.538161906875358
+Station_82,Los Angeles,Level 1,5.052457492354572
+Station_82,San Francisco,Level 1,30.77497307475196
+Station_82,San Francisco,Level 1,33.50495954700098
+Station_83,Houston,DC Fast Charger,6.499187934882619
+Station_84,Houston,Level 1,3.991359551432321
+Station_84,Los Angeles,DC Fast Charger,13.372949045558247
+Station_84,New York,Level 1,29.990454827284875
+Station_84,San Francisco,DC Fast Charger,24.74284750954942
+Station_84,San Francisco,Level 2,11.078210344788673
+Station_85,Los Angeles,DC Fast Charger,20.00393210023944
+Station_85,Los Angeles,Level 2,29.148826227508486
+Station_86,Chicago,Level 1,41.06408281007833
+Station_87,Houston,Level 2,47.87752355760527
+Station_87,Los Angeles,Level 2,9.391635794111917
+Station_87,San Francisco,Level 1,23.680039830203164
+Station_88,Chicago,Level 1,
+Station_88,Houston,Level 1,45.32674459013657
+Station_88,Los Angeles,DC Fast Charger,5.904189492591163
+Station_88,San Francisco,Level 2,26.42378193855539
+Station_89,Chicago,Level 2,16.75976742648834
+Station_89,Los Angeles,Level 1,47.80486645935545
+Station_9,Chicago,Level 1,32.976500057737226
+Station_9,Chicago,Level 1,49.319128854525374
+Station_9,New York,Level 1,14.812569888092858
+Station_90,Los Angeles,DC Fast Charger,28.004859152178906
+Station_90,Los Angeles,Level 1,16.487468098425715
+Station_90,Los Angeles,Level 1,27.95671520137067
+Station_90,New York,Level 1,19.021088745685933
+Station_90,San Francisco,Level 1,4.830371677364436
+Station_92,Los Angeles,Level 1,11.144567690649613
+Station_92,San Francisco,Level 1,14.225154049615949
+Station_92,San Francisco,Level 1,49.422736981543714
+Station_93,Chicago,DC Fast Charger,35.776000248726106
+Station_93,Los Angeles,Level 2,28.92648502242356
+Station_93,San Francisco,Level 1,3.984866071006567
+Station_94,Chicago,Level 1,6.082778486824532
+Station_95,New York,Level 2,19.89667188726539
+Station_96,Houston,Level 1,24.21115011711917
+Station_96,New York,DC Fast Charger,27.805230847752817
+Station_97,Chicago,Level 2,6.35266144526304
+Station_97,Houston,Level 1,26.50712322152529
+Station_97,Los Angeles,Level 1,6.335184959518231
+Station_97,New York,DC Fast Charger,38.45083190087793
+Station_97,San Francisco,DC Fast Charger,29.081690927779928
+Station_98,Houston,DC Fast Charger,4.096052506150107
+Station_98,San Francisco,DC Fast Charger,10.575938299260526
+Station_98,San Francisco,DC Fast Charger,35.74897886600845
+Station_99,Los Angeles,DC Fast Charger,44.84899049694756
+Station_99,New York,Level 1,5.406718024307384
